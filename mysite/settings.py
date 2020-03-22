@@ -25,7 +25,7 @@ SECRET_KEY = 'njjem18o!34x38jacs^*81cqkdzn4pnzuc_4crr$=^j2wfh3q9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'zdenda.pythonanyware.com']
 
 
 # Application definition
